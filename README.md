@@ -11,3 +11,5 @@ Below are chapters which are implmented in this repository:
 2. Spring 4 MVC + Hibernate4 + MySQL + Maven integration—-Testing example using annotations
 
 3. Spring 4 MVC + Hibernate4 Many-to-many JSP Example using annotation with join table + MySQL + Maven
+
+4. Spring MVC 4 + Spring Security 4 + Hibernate Example
