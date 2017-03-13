@@ -2,7 +2,7 @@
 
 [Based on websystique Spring MVC 4 + Hibernate + JPA2](http://websystique.com/spring-4-mvc-tutorial/)
 
-Implement different chapters in different branch.
+Implement different chapters in different branches.
 
 Below are chapters which are implmented in this repository:
 
